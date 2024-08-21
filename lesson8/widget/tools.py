@@ -1,4 +1,4 @@
-def get_status_message(bmi)->str:
+def get_status_message(bmi: float) -> str:
     '''
     #param bmi:這是要傳入bmi傳
     #return:傳出bmi的狀態
