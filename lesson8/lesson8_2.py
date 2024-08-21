@@ -1,4 +1,5 @@
-import tools
+import widget
+import widget.tools
 
 while True:
     try:
@@ -9,9 +10,9 @@ while True:
     except ValueError:
         print("格式錯誤")
         continue
-    grade = tools.get_status_message(bmi)
+    grade = widget.tools.get_status_message(bmi)
     print(f'{name}您好\n您的BMI值是:{bmi}\n體重:{grade}')
-    stuff = input("請問是否繼續輸入資料 ('q':離開,任意鍵:繼續)?")
-    if stuff == 'q':
+    leave = input("請問是否繼續輸入資料 ('q':離開,任意鍵:繼續)?")
+    if leave == 'q':
         break
 print("應用程式結束")
