@@ -1,9 +1,9 @@
 {
  "cwaopendata": {
   "@xmlns": "urn:cwa:gov:tw:cwacommon:0.1",
-  "identifier": "3a083328-2dda-44e9-bc7d-656bef8f5b62",
+  "identifier": "3de9673e-0e4f-4f1e-aa0b-d7bb1330afa1",
   "sender": "od@cwa.gov.tw",
-  "sent": "2024-08-26T22:02:20+08:00",
+  "sent": "2024-08-28T19:22:20+08:00",
   "status": "Actual",
   "msgType": "Issue",
   "dataid": "O-A0091-001",
@@ -14,7 +14,7 @@
      "StationName": "基隆",
      "StationId": "466940",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -34,14 +34,14 @@
       "StationAltitude": "26.7"
      },
      "WeatherElement": {
-      "SolarRadiation": "22.37"
+      "SolarRadiation": "19.39"
      }
     },
     {
      "StationName": "淡水",
      "StationId": "466900",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -61,14 +61,14 @@
       "StationAltitude": "19.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.98"
+      "SolarRadiation": "15.24"
      }
     },
     {
      "StationName": "新北",
      "StationId": "466881",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -88,14 +88,14 @@
       "StationAltitude": "24.1"
      },
      "WeatherElement": {
-      "SolarRadiation": "19.09"
+      "SolarRadiation": "16.63"
      }
     },
     {
      "StationName": "陽明山",
      "StationId": "466930",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -115,14 +115,14 @@
       "StationAltitude": "607.1"
      },
      "WeatherElement": {
-      "SolarRadiation": "22.45"
+      "SolarRadiation": "16.01"
      }
     },
     {
      "StationName": "鞍部",
      "StationId": "466910",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -142,14 +142,14 @@
       "StationAltitude": "832.6"
      },
      "WeatherElement": {
-      "SolarRadiation": "20.56"
+      "SolarRadiation": "16.44"
      }
     },
     {
      "StationName": "新竹",
      "StationId": "467571",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -169,14 +169,14 @@
       "StationAltitude": "26.9"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.06"
+      "SolarRadiation": "22.37"
      }
     },
     {
      "StationName": "臺中",
      "StationId": "467490",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -196,14 +196,14 @@
       "StationAltitude": "84.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "17.06"
+      "SolarRadiation": "21.51"
      }
     },
     {
      "StationName": "澎湖",
      "StationId": "467350",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -223,14 +223,14 @@
       "StationAltitude": "10.7"
      },
      "WeatherElement": {
-      "SolarRadiation": "26.28"
+      "SolarRadiation": "25.57"
      }
     },
     {
      "StationName": "日月潭",
      "StationId": "467650",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -250,14 +250,14 @@
       "StationAltitude": "1014.8"
      },
      "WeatherElement": {
-      "SolarRadiation": "17.17"
+      "SolarRadiation": "27.48"
      }
     },
     {
      "StationName": "阿里山",
      "StationId": "467530",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -277,14 +277,14 @@
       "StationAltitude": "2413.4"
      },
      "WeatherElement": {
-      "SolarRadiation": "9.77"
+      "SolarRadiation": "19.91"
      }
     },
     {
      "StationName": "玉山",
      "StationId": "467550",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -304,14 +304,14 @@
       "StationAltitude": "3844.8"
      },
      "WeatherElement": {
-      "SolarRadiation": "20.19"
+      "SolarRadiation": "16.25"
      }
     },
     {
      "StationName": "嘉義",
      "StationId": "467480",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -331,14 +331,14 @@
       "StationAltitude": "26.9"
      },
      "WeatherElement": {
-      "SolarRadiation": "20.80"
+      "SolarRadiation": "24.68"
      }
     },
     {
      "StationName": "臺南",
      "StationId": "467410",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -358,14 +358,14 @@
       "StationAltitude": "40.8"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.82"
+      "SolarRadiation": "25.05"
      }
     },
     {
      "StationName": "高雄",
      "StationId": "467441",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -385,14 +385,14 @@
       "StationAltitude": "11.8"
      },
      "WeatherElement": {
-      "SolarRadiation": "21.76"
+      "SolarRadiation": "25.60"
      }
     },
     {
      "StationName": "恆春",
      "StationId": "467590",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -412,14 +412,14 @@
       "StationAltitude": "22.3"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.39"
+      "SolarRadiation": "26.29"
      }
     },
     {
      "StationName": "宜蘭",
      "StationId": "467080",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -439,14 +439,14 @@
       "StationAltitude": "7.4"
      },
      "WeatherElement": {
-      "SolarRadiation": "22.43"
+      "SolarRadiation": "22.57"
      }
     },
     {
      "StationName": "花蓮",
      "StationId": "466990",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -466,14 +466,14 @@
       "StationAltitude": "16.1"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.60"
+      "SolarRadiation": "25.53"
      }
     },
     {
      "StationName": "成功",
      "StationId": "467610",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -493,14 +493,14 @@
       "StationAltitude": "33.3"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.31"
+      "SolarRadiation": "26.36"
      }
     },
     {
      "StationName": "臺東",
      "StationId": "467660",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -520,14 +520,14 @@
       "StationAltitude": "9.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "26.58"
+      "SolarRadiation": "27.10"
      }
     },
     {
      "StationName": "大武",
      "StationId": "467540",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -547,14 +547,14 @@
       "StationAltitude": "8.1"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.31"
+      "SolarRadiation": "26.15"
      }
     },
     {
      "StationName": "蘭嶼",
      "StationId": "467620",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -574,14 +574,14 @@
       "StationAltitude": "324.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.87"
+      "SolarRadiation": "27.00"
      }
     },
     {
      "StationName": "彭佳嶼",
      "StationId": "466950",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -601,14 +601,14 @@
       "StationAltitude": "99.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.02"
+      "SolarRadiation": "22.79"
      }
     },
     {
      "StationName": "東吉島",
      "StationId": "467300",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -628,14 +628,14 @@
       "StationAltitude": "44.5"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.96"
+      "SolarRadiation": "25.80"
      }
     },
     {
      "StationName": "南沙島",
      "StationId": "469020",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -655,14 +655,14 @@
       "StationAltitude": "4.5"
      },
      "WeatherElement": {
-      "SolarRadiation": "8.84"
+      "SolarRadiation": "5.31"
      }
     },
     {
      "StationName": "東沙島",
      "StationId": "468100",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -682,14 +682,14 @@
       "StationAltitude": "4.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "27.40"
+      "SolarRadiation": "25.74"
      }
     },
     {
      "StationName": "永康",
      "StationId": "467420",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -709,14 +709,14 @@
       "StationAltitude": "8.1"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.79"
+      "SolarRadiation": "24.19"
      }
     },
     {
      "StationName": "臺北",
      "StationId": "466920",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -736,14 +736,14 @@
       "StationAltitude": "6.3"
      },
      "WeatherElement": {
-      "SolarRadiation": "21.61"
+      "SolarRadiation": "16.00"
      }
     },
     {
      "StationName": "金門",
      "StationId": "467110",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -763,14 +763,14 @@
       "StationAltitude": "48.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "23.25"
+      "SolarRadiation": "19.91"
      }
     },
     {
      "StationName": "馬祖",
      "StationId": "467990",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -797,7 +797,7 @@
      "StationName": "新屋",
      "StationId": "467050",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -817,14 +817,14 @@
       "StationAltitude": "20.6"
      },
      "WeatherElement": {
-      "SolarRadiation": "25.58"
+      "SolarRadiation": "20.32"
      }
     },
     {
      "StationName": "田中",
      "StationId": "467270",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -844,14 +844,14 @@
       "StationAltitude": "42.2"
      },
      "WeatherElement": {
-      "SolarRadiation": "21.91"
+      "SolarRadiation": "24.92"
      }
     },
     {
      "StationName": "後龍",
      "StationId": "467280",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -871,14 +871,14 @@
       "StationAltitude": "30.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "23.93"
+      "SolarRadiation": "24.52"
      }
     },
     {
      "StationName": "萬大發電廠",
      "StationId": "42HA10",
      "ObsTime": {
-      "DateTime": "2024-08-26T21:50:00+08:00"
+      "DateTime": "2024-08-28T19:10:00+08:00"
      },
      "GeoInfo": {
       "Coordinates": [
@@ -898,7 +898,7 @@
       "StationAltitude": "1000.0"
      },
      "WeatherElement": {
-      "SolarRadiation": "24.89"
+      "SolarRadiation": "24.14"
      }
     }
    ]
